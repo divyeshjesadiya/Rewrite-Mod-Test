@@ -11,7 +11,7 @@ $sOutputMsg = 'mod_rewrite Works!';
 if ($_SERVER['QUERY_STRING'] == 'test_mod_rewrite')
     exit($sOutputMsg);
 
-$sPage = file_get_contents($sUrl . 'test_mod_rewrite');
+$sPage = @file_get_contents($sUrl . 'test_mod_rewrite');
 
 
 if ($sPage == $sOutputMsg)
