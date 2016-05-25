@@ -5,7 +5,7 @@ This script allows to know if the Rewrite Mod is properly installed for pH7CMS. 
 
 ## Website
 
-**[Social Dating Network Script](http://ph7cms.com)**
+**[pH7CMS, Dating Script](http://ph7cms.com)**
 
 
 ## Author
